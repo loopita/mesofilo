@@ -1,6 +1,6 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Bienvenido al blog de Loopita"
+author: "Loopita Méndez Dewar"
 date: "2025-03-22"
 categories: [news]
 ---
