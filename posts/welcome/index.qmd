@@ -5,7 +5,12 @@ date: "2025-03-22"
 categories: [news]
 ---
 
-Lupita está aprendiendo mucho de quarto y git!
+
+![](bosqueIcon.JPG)
+
+### Lupita está aprendiendo mucho de quarto y git!
+
+<!--- esto es un comentario --->
 
 ![](https://www.inecol.mx/images/CIENCIA%20HOY/plantas/quelites/quelites1.png)
 

@@ -1,0 +1,16 @@
+---
+title: "la nueva entrada"
+author: "Loopita Méndez Dewar"
+date: "2025-03-22"
+categories: [news]
+---
+
+![](bosqueIcon.JPG)
+
+### Lupita está aprendiendo mucho de quarto y git!
+
+<!--- esto es un comentario --->
+
+este post está todavía mejor
+
+> Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
