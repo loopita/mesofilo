@@ -1,0 +1,13 @@
+---
+title: "mesofilo"
+author: "Pita""
+listing:
+  contents: posts
+    type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+image: "C:\Users\pitam\OneDrive\Documents\RegeneracionBosques\hemiFotos\PARCELA1\bosqueIcon.JPG"
+---
